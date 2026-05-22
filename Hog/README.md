@@ -1,3 +1,3 @@
 # Hog
 
-Project files and notes for the Hog assignment in CS61A.
+Project files and notes for the Hog project in CS61A.
