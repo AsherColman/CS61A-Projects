@@ -1,3 +1,3 @@
 # Ants
 
-Project files and notes for the Ants assignment in CS61A.
+Project files and notes for the Ants project in CS61A.
