@@ -1,3 +1,3 @@
 # Scheme
 
-Scheme projects and exercises for CS61A.
+Project files and notes for the Scheme project in CS61A.
